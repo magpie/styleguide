@@ -20,9 +20,9 @@
 
 * No spaces after (, [ and before ], ).
 
-* Indent when as deep as case.
+* Indent "when" as deep as case.
 
-* Keep lines fewer than 80 characters.
+* Break the line when it makes sense, not at a specific character limit.
 
 == Syntax:
 
